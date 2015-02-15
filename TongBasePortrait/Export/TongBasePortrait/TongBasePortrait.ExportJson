@@ -911,7 +911,7 @@
       "mov_data": [
         {
           "name": "Attack_Step_3",
-          "dr": 1,
+          "dr": 0,
           "lp": true,
           "to": 0,
           "drTW": 0,
@@ -1681,6 +1681,10 @@
       "plistFile": ""
     }
   ],
-  "config_file_path": [],
-  "config_png_path": []
+  "config_file_path": [
+    "TongBasePortrait0.plist"
+  ],
+  "config_png_path": [
+    "TongBasePortrait0.png"
+  ]
 }
